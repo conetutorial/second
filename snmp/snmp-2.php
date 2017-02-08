@@ -40,7 +40,7 @@ $session->close();
     <div class="container">
         <div class="navbar-header">
             <a class="navbar-brand" href="#">
-                SNMP/SMTPを使ったサンプルコード
+                SNMPを使ったサンプルコード
             </a>
         </div>
     </div>
